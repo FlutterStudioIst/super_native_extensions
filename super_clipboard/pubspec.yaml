@@ -16,7 +16,12 @@ dependencies:
   # https://pub.dev/packages/meta
   # Note: meta is pinned to version 1.17.0 by flutter_test from the flutter SDK.
   meta: any
-  super_native_extensions: ^0.9.1
+  #super_native_extensions: ^0.9.1
+  super_native_extensions:
+    git:
+      url: git@github.com:FlutterStudioIst/super_native_extensions.git
+      path: super_native_extensions/
+      ref: 0.9.1-fix2
 dev_dependencies:
   flutter_test:
     sdk: flutter

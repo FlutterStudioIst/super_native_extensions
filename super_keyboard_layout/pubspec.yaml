@@ -9,7 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  super_native_extensions: ^0.9.1
+  #super_native_extensions: ^0.9.1
+  super_native_extensions:
+    git:
+      url: git@github.com:FlutterStudioIst/super_native_extensions.git
+      path: super_native_extensions/
+      ref: 0.9.1-fix2
 dev_dependencies:
   flutter_test:
     sdk: flutter
