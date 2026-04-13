@@ -16,13 +16,13 @@ dependencies:
     git:
       url: git@github.com:FlutterStudioIst/super_native_extensions.git
       path: super_native_extensions/
-      ref: 0.9.1-fix3
+      ref: 0.9.1-fix5
   #super_clipboard: ^0.9.1
   super_clipboard:
     git:
       url: git@github.com:FlutterStudioIst/super_native_extensions.git
       path: super_clipboard/
-      ref: 0.9.1-fix3
+      ref: 0.9.1-fix5
 dev_dependencies:
   flutter_test:
     sdk: flutter
