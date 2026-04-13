@@ -4,21 +4,23 @@ version: 0.9.1
 homepage: https://github.com/superlistapp/super_native_extensions
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: ^3.10.0
 
 dependencies:
   flutter:
     sdk: flutter
   super_native_extensions: ^0.9.1
-  collection: ^1.16.0
-  device_info_plus: ">=10.0.1 <12.0.0"
-  pixel_snap: ^0.1.1
+  # https://pub.dev/packages/collection
+  collection: ^1.19.1
+  # https://pub.dev/packages/device_info_plus
+  device_info_plus: ^13.0.0
+  # https://pub.dev/packages/pixel_snap
+  pixel_snap: ^0.1.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
