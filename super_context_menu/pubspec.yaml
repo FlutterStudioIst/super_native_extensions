@@ -18,7 +18,8 @@ dependencies:
   # https://pub.dev/packages/collection
   collection: ^1.19.1
   # https://pub.dev/packages/device_info_plus
-  device_info_plus: ^13.0.0
+  # 13.0.0 : BREAKING FEAT(device_info_plus): Bump win32 from 5.15.0 to 6.0.0 (#3791). (5f93878b)
+  device_info_plus: ^12.4.0
   # https://pub.dev/packages/pixel_snap
   pixel_snap: ^0.1.5
 
