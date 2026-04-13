@@ -14,7 +14,7 @@ dependencies:
     git:
       url: git@github.com:FlutterStudioIst/super_native_extensions.git
       path: super_native_extensions/
-      ref: 0.9.1-fix2
+      ref: 0.9.1-fix3
   # https://pub.dev/packages/collection
   collection: ^1.19.1
   # https://pub.dev/packages/device_info_plus

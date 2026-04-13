@@ -14,7 +14,7 @@ dependencies:
     git:
       url: git@github.com:FlutterStudioIst/super_native_extensions.git
       path: super_native_extensions/
-      ref: 0.9.1-fix2
+      ref: 0.9.1-fix3
 dev_dependencies:
   flutter_test:
     sdk: flutter
