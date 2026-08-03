@@ -21,12 +21,14 @@ dependencies:
   # https://pub.dev/packages/path
   path: ^1.9.1
   # https://pub.dev/packages/uuid
-  uuid: ^4.5.3
+  uuid: ^4.6.0
+  # https://pub.dev/packages/irondash_engine_context
   irondash_engine_context: ^0.5.5
+  # https://pub.dev/packages/irondash_message_channel
   irondash_message_channel: ^0.7.0
   # https://pub.dev/packages/device_info_plus
   # 13.0.0 : BREAKING FEAT(device_info_plus): Bump win32 from 5.15.0 to 6.0.0 (#3791). (5f93878b)
-  device_info_plus: ^13.1.0
+  device_info_plus: ^13.2.0
   # https://pub.dev/packages/pixel_snap
   pixel_snap: ^0.1.5
   # https://pub.dev/packages/web
